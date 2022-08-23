@@ -23,4 +23,9 @@ print(course1, "-",course2)
 print(10,20,30)
 print(12.5,15.5)
 
-
+var cricketKit = ("handGloves" ,"helmet",("bat","ball"))
+print(cricketKit.0)
+print(cricketKit.1)
+print(cricketKit.2)
+print(cricketKit.2.0)
+print(cricketKit.2.1)
